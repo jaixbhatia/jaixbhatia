@@ -1,8 +1,5 @@
-## Hi there 👋
+My favorite words: intuition, metacognition, and curiosity.
 
-- I'm currently coping with NP-completeness, breaching vulnerable web servers (educational purposes), and using Open MPI to parallelize computation 
-- 👯 I’m looking to collaborate on open source ML
-- 💬 Ask me about anything
-- 📫 How to reach me: jaixbhatia@gmail.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I love playing volleyball
+I'm a builder. I create software, take on entrepreneurial ventures, and challenge myself through fitness. Whether it’s coding or CrossFit, I appreciate the struggle and tend to fall in love with the process. 
+
+Open to any side quests! if you’ve got something interesting, book a time @ https://cal.com/jaibhatia/15min
